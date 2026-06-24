@@ -9,9 +9,11 @@ Goal: This shared evaluation task was created to streamline teaching efforts and
 # Title: Automatic CEFR Level Classification for Spanish Learner Texts: A Comparative Study of a Pretrained LLM and Prompt Engineering
 
 Antonio Jesús Tamayo Herrera 
+
 Universidad de Antioquia, Medellín, Colombia  
 
 Juan Felipe Zuluaga Molina
+
 Institución universitaria ITM, Medellín, Colombia 
 
 Abstract 
